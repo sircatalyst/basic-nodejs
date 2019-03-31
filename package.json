@@ -1,0 +1,23 @@
+{
+  "name": "basic-nodejs",
+  "version": "1.0.0",
+  "description": "Basic Nodejs Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sircatalyst/basic-nodejs.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Server"
+  ],
+  "author": "Temitope Bamidele",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sircatalyst/basic-nodejs/issues"
+  },
+  "homepage": "https://github.com/sircatalyst/basic-nodejs#readme"
+}
